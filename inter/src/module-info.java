@@ -1,0 +1,3 @@
+module javaprogram_interface
+{
+}
