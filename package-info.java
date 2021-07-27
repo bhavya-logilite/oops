@@ -1,1 +1,1 @@
-package priority_Queue_in_arraay;
+package Priority_queue_in_linkedlist;
