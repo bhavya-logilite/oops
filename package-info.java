@@ -1,1 +1,1 @@
-package Priority_queue_in_linkedlist;
+package maxheap;
