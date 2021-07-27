@@ -1,1 +1,1 @@
-package binarysearch;
+package selectionsort;
