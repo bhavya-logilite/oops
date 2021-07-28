@@ -1,1 +1,1 @@
-package binary_search_tree;
+package kmpalgorithm;
